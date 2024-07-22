@@ -1,7 +1,7 @@
-name="shashi"
-age=30
-print(f"my name is {name} and my age is {age}")
-
+# name="shashi"
+# age=30
+# print(f"my name is {name} and my age is {age}")
+#
 
 # factorial
 
